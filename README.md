@@ -1,5 +1,5 @@
 # Md5-Hasher
-Hashing your passwords easy with md5-hasher tool
+Hashing your passwords easy with md5-hasher tool hey you dont' forget click star thank you for you using my tool and enjoy ^_^
 # Installing
 1. apt-get update
 2. apt-get upgrade -y

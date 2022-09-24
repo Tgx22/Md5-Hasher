@@ -26,7 +26,7 @@ else:
 # banner
 
 time.sleep(0.5)
-os.system("figlet Md5-Hash")
+os.system("figlet Md5-Hasher")
 
 # Inputs
 

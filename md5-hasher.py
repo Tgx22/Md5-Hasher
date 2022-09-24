@@ -27,6 +27,7 @@ else:
 
 time.sleep(0.5)
 os.system("figlet Md5-Hasher")
+print("           follow us in github https://www.github.com/Tgx22")
 
 # Inputs
 
